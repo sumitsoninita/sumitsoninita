@@ -5,14 +5,13 @@
 
 ---
 
-- 🎓 Third-year undergraduate at **NIT Agartala**, Chemical Engineering  
-- 💼 Internship Coordinator | Vice President @ Consulting Club |
-- 🌱 Currently learning **Data Analysis and Business Intelligence Tools**  
-- 📫 Reach me at **sumitsoninita@gmail.com**
+-  Third-year undergraduate at **NIT Agartala**, Chemical Engineering  
+-  Currently learning **Data Analysis and Business Intelligence Tools**  
+-  Reach me at **sumitsoninita@gmail.com**
 
 ---
 
-### 🛠️ Languages and Tools:
+### Languages and Tools:
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/000000/pandas.png"/>
